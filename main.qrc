@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/fb_search.PNG</file>
+        <file>images/fb_background_main_screen.PNG</file>
+        <file>images/fb_big.jpg</file>
+        <file>images/fb_footer.PNG</file>
+        <file>images/fb_ribbon.PNG</file>
+        <file>menu_icons/fb_menu_requests.PNG</file>
+        <file>menu_icons/fb_menu_chat.PNG</file>
+        <file>menu_icons/fb_menu_events.PNG</file>
+        <file>menu_icons/fb_menu_friends.PNG</file>
+        <file>menu_icons/fb_menu_inbox.PNG</file>
+        <file>menu_icons/fb_menu_news.PNG</file>
+        <file>menu_icons/fb_menu_notes.PNG</file>
+        <file>menu_icons/fb_menu_photos.PNG</file>
+        <file>menu_icons/fb_menu_profile.PNG</file>
+        <file>views/PhotoView.qml</file>
+        <file>views/FriendView.qml</file>
+        <file>views/NewsfeedView.qml</file>
+        <file>Facebook.qml</file>
+        <file>subviews/TopMenu.qml</file>
+    </qresource>
+</RCC>
